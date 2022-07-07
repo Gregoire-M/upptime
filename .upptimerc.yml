@@ -4,6 +4,8 @@ repo: upptime
 sites:
   - name: Symfonic
     url: https://symfonic.fr/en
+  - name: F
+    url: $SECRET_SITE_F
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
