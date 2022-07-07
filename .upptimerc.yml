@@ -16,7 +16,7 @@ status-website:
   introMessage: This is my status page which uses **real-time** data from upptime [GitHub repository](https://github.com/Gregoire-M/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /uptime
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
