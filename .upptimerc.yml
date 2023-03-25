@@ -3,7 +3,7 @@ repo: upptime
 
 sites:
   - name: Symfonic
-    url: https://symfonic.fr/en
+    url: https://symfonic.fr/
   - name: F
     url: $SECRET_SITE_F
 
