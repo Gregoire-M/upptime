@@ -6,9 +6,9 @@
     "slug": "symfonic",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "91.22%",
-    "uptimeWeek": "85.54%",
-    "uptimeMonth": "96.67%",
+    "uptimeDay": "92.18%",
+    "uptimeWeek": "85.68%",
+    "uptimeMonth": "96.70%",
     "uptimeYear": "99.62%",
     "time": 840,
     "timeDay": 297,
@@ -16,7 +16,7 @@
     "timeMonth": 930,
     "timeYear": 840,
     "dailyMinutesDown": {
-      "2023-03-28": 127,
+      "2023-03-28": 113,
       "2023-03-26": 797,
       "2023-03-25": 533
     }
@@ -26,9 +26,9 @@
     "url": "$SECRET_SITE_F",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "f",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.53%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.93%",
@@ -38,6 +38,7 @@
     "timeMonth": 597,
     "timeYear": 575,
     "dailyMinutesDown": {
+      "2023-03-28": 0,
       "2023-03-26": 60,
       "2023-03-25": 189
     }
