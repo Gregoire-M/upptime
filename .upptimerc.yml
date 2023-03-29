@@ -7,7 +7,7 @@ sites:
     __dangerous__body_down_if_text_missing: Symfony stuff
   - name: F
     url: $SECRET_SITE_F
-    #__dangerous__body_down_if_text_missing: online
+    __dangerous__body_down_if_text_missing: Contact
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
