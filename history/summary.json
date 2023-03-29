@@ -10,15 +10,38 @@
     "uptimeWeek": "85.68%",
     "uptimeMonth": "96.70%",
     "uptimeYear": "99.62%",
-    "time": 837,
-    "timeDay": 285,
-    "timeWeek": 918,
-    "timeMonth": 895,
-    "timeYear": 837,
+    "time": 834,
+    "timeDay": 262,
+    "timeWeek": 862,
+    "timeMonth": 874,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2023-03-28": 113,
       "2023-03-26": 797,
       "2023-03-25": 533
+    }
+  },
+  {
+    "name": "F",
+    "url": "$SECRET_SITE_F",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "f",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 573,
+    "timeDay": 247,
+    "timeWeek": 545,
+    "timeMonth": 576,
+    "timeYear": 573,
+    "dailyMinutesDown": {
+      "2023-03-29": 491,
+      "2023-03-28": 429,
+      "2023-03-26": 60,
+      "2023-03-25": 189
     }
   }
 ]
