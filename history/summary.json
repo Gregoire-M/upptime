@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 374,
-    "timeWeek": 262,
-    "timeMonth": 423,
-    "timeYear": 250,
+    "timeDay": 537,
+    "timeWeek": 303,
+    "timeMonth": 424,
+    "timeYear": 251,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "f",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 131,
-    "timeWeek": 228,
-    "timeMonth": 295,
-    "timeYear": 278,
+    "time": 288,
+    "timeDay": 1028,
+    "timeWeek": 350,
+    "timeMonth": 314,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   }
 ]
