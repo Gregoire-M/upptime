@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/symfonic.fr.ico",
     "slug": "symfonic",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 283,
-    "timeWeek": 164,
-    "timeMonth": 247,
-    "timeYear": 251,
+    "timeDay": 98,
+    "timeWeek": 159,
+    "timeMonth": 242,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 677,
-    "timeWeek": 382,
+    "time": 292,
+    "timeDay": 314,
+    "timeWeek": 293,
     "timeMonth": 377,
-    "timeYear": 283,
+    "timeYear": 282,
     "dailyMinutesDown": {}
   }
 ]
