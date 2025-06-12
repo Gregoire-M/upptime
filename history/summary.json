@@ -4,19 +4,19 @@
     "url": "https://symfonic.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/symfonic.fr.ico",
     "slug": "symfonic",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 8072,
-    "timeWeek": 2154,
-    "timeMonth": 785,
-    "timeYear": 331,
+    "time": 326,
+    "timeDay": 9776,
+    "timeWeek": 3380,
+    "timeMonth": 1161,
+    "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-06-12": 1
+      "2025-06-12": 14
     }
   },
   {
