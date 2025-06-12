@@ -1,7 +1,7 @@
 url: https://symfonic.fr/
-status: up
-code: 200
-responseTime: 347
-lastUpdated: 2025-06-11T23:00:26.954Z
+status: down
+code: 500
+responseTime: 15796
+lastUpdated: 2025-06-12T18:28:52.930Z
 startTime: 2022-07-05T20:12:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
