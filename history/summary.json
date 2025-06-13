@@ -6,18 +6,16 @@
     "slug": "symfonic",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
-    "timeDay": 9776,
-    "timeWeek": 3380,
-    "timeMonth": 1161,
+    "timeDay": 9775,
+    "timeWeek": 3399,
+    "timeMonth": 1163,
     "timeYear": 366,
-    "dailyMinutesDown": {
-      "2025-06-12": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "F",
@@ -31,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 349,
-    "timeDay": 1099,
-    "timeWeek": 438,
+    "timeDay": 281,
+    "timeWeek": 439,
     "timeMonth": 393,
     "timeYear": 383,
     "dailyMinutesDown": {}
