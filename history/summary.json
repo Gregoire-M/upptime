@@ -6,9 +6,9 @@
     "slug": "symfonic",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "95.97%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 342,
     "timeDay": 219,
@@ -16,7 +16,7 @@
     "timeMonth": 274,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2025-11-18": 37
+      "2025-11-18": 58
     }
   },
   {
@@ -24,17 +24,17 @@
     "url": "$SECRET_SITE_F",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "f",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "97.95%",
+    "uptimeDay": "97.94%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 392,
-    "timeDay": 384,
-    "timeWeek": 444,
-    "timeMonth": 357,
-    "timeYear": 420,
+    "timeDay": 348,
+    "timeWeek": 424,
+    "timeMonth": 353,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2025-11-18": 30
     }
