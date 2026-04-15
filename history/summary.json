@@ -11,10 +11,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 340,
-    "timeDay": 445,
-    "timeWeek": 289,
-    "timeMonth": 249,
-    "timeYear": 364,
+    "timeDay": 85,
+    "timeWeek": 254,
+    "timeMonth": 240,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2026-03-30": 25,
       "2025-11-18": 166
@@ -27,15 +27,15 @@
     "slug": "estcequonaunpremierministre",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.10%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
-    "time": 636,
-    "timeDay": 521,
-    "timeWeek": 602,
-    "timeMonth": 542,
-    "timeYear": 636,
+    "time": 635,
+    "timeDay": 575,
+    "timeWeek": 545,
+    "timeMonth": 556,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2026-04-13": 42
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 124,
-    "timeWeek": 271,
-    "timeMonth": 244,
-    "timeYear": 291,
+    "time": 290,
+    "timeDay": 199,
+    "timeWeek": 245,
+    "timeMonth": 241,
+    "timeYear": 290,
     "dailyMinutesDown": {}
   },
   {
@@ -70,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 388,
-    "timeDay": 388,
-    "timeWeek": 297,
-    "timeMonth": 284,
-    "timeYear": 348,
+    "timeDay": 274,
+    "timeWeek": 286,
+    "timeMonth": 280,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2025-11-18": 157
     }
